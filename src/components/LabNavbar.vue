@@ -5,6 +5,7 @@ const items = ref (['Home', 'Projects', 'Services', 'Contacts'])
 
 <template>
  <nav>
+    <h1>Is a Navbar!</h1>
     <ul>
         <li v-for="item in items">{{ item }}</li>
     </ul>
