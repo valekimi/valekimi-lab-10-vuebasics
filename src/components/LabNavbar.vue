@@ -25,5 +25,6 @@ ul {
 
 li {
     list-style: none;
+    color: black;
 }
 </style>
